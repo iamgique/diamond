@@ -7,16 +7,6 @@ public class Solution {
     }
 
     public static void oddDiamond(int input){
-        // ----X----
-        // ---X-X---
-        // --X---X--
-        // -X-----X-
-        // X-------X
-        // -X-----X-
-        // --X---X--
-        // ---X-X---
-        // ----X----
-
         for(int i = 0; i < input; i++) {
             for(int j = 0; j < input; j++) {
 
